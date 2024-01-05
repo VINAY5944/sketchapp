@@ -1,0 +1,15 @@
+/* .main{
+    border: 1px solid;
+    width: 300px;
+    height: 300px;
+    margin-top: 20%;
+    margin-left: 30%;
+} */
+.components{
+  width: 100px;
+ height: 100px;
+ border:1px solid;
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+
+}
